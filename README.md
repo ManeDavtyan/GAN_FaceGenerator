@@ -1,2 +1,2 @@
 # GAN_ImageGenerator
-Image Generator With GAN
+The following code generates faces on the lwf dataset, which you can see attached to the repository. 
